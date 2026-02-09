@@ -1,4 +1,4 @@
-**README GLOBAL**
+**README / LEEME**
 
 # External dependencies for PDF Text Formatter
 pyperclip==1.9.0
